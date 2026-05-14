@@ -56,6 +56,9 @@ O ficheiro `.env.example` documenta variáveis usadas no ecossistema original (e
    git push -u origin main
    ```
 
+
+   Atualização para disparar deploy na Vercel.
+
 3. Confirme que **não** está a versionar `node_modules/` nem `dist/` (já estão no `.gitignore`).
 
 ## Licença
